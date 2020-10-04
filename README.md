@@ -1,7 +1,9 @@
 # resume
 Ajibola's Program / Product Management Resume
+SUMMARY
 A cross functional solution-driven, value oriented manager with immense creativity, high business acumen, and team friendliness having emphasis working with cross functional global teams with over 6 years of experience catering to a diverse industry delivering product and SaaS solutions through consultative sales, project management, business analysis, and customer relationship management (CRM) expertise with a natural ability to conceptualize (start-finish), implement, manage and grow business programs with established KPI’s, mitigated risks and adaptability to change (PMP Trained with emphasis on AGILE-Scrum environments & Data Privacy Compliant). 
 
+HIGGHLIGHTS: PROGRAM / PRODUCT MANAGEMENT EXPERIENCE
 Zander Mercy: Mercy Nation Ambassador Program (Micro-Influencer Marketing)
 •	Proposed and launched the company’s first Micro-Influencer Marketing Program dubbed “Mercy Nation” which accounts for 90% of the company’s sales (2020)
 
@@ -15,6 +17,7 @@ Rekun Tech: LEC Dream Event, Product Owner + xFAQs Product Owner
 Magnaquest Tech: Product Manager: Sure CRM (Europe, Middle East & Africa– EMEA)
 •	As product manager of SURE CRM, EMEA, worked with Senior Vice President of Sales to design, propose and co-launch the “CapEx vs OpEx Sales Program” for developing countries (2014)
 
+WORK EXPERIENCE
 ZANDER MERCY 
 A beauty and cosmetic company specializing in delivering market focused products and brands to consumers. Zander Mercy is a global company bringing affordable top of the line products to the masses. 
  	  Program Manager: Mercy Nation Ambassador Program, USA                    (08/19 to Date)
@@ -76,9 +79,7 @@ A multinational tech service provider offering turn-key CRM and Business solutio
 •	Conducted presales, post-sales and sales performance activities
 •	Conducted sales engagement campaigns specifically tailored towards individual prospects, via SUGAR CRM & presented consultative sales presentations & scheduled product demos
 
-
-
-
+EDUCATION AND CERTIFICATIONS
 CALEB UNIVERSITY                                                                                                    
 BSc. Hons BIOCHEMISTRY (+ Entrepreneurial Studies)                                                2013
 
@@ -89,6 +90,7 @@ EXTERNAL PROJECT MANAGEMENT TRAININGS & CERTIFICATIONS
 In Progress:
 Certified CRM Admin // MySQL  // AWS Cloud Architect Training  // Certified Scrum Project Manager
 
+WORK TOOLS
 Work Environments:       MSOS/ iOS / Cloud / VS Friendly/ AGILE & SCRUM Friendly
 	CRM & ERPs:	               Salesforce, MS Dynamic 365, ZoHo, Sugar, Sure, Prosper Works, etc. 
 	Account/Compliance:       QuickBooks, ADP Tally, DocuSign, Adobe, Peach Tree, POS, Turbo Tax etc.
